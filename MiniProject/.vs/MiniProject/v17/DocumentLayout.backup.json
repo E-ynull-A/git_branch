@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\Desktop\\C# Work\\C# HomeWork\\C-HomeWorks\\MiniProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{894B0502-773B-4B9E-8E51-B49D3F7C7EFC}|MiniProject\\MiniProject.csproj|c:\\users\\user\\onedrive\\desktop\\c# work\\c# homework\\c-homeworks\\miniproject\\miniproject\\manageapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894B0502-773B-4B9E-8E51-B49D3F7C7EFC}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\manageapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894B0502-773B-4B9E-8E51-B49D3F7C7EFC}|MiniProject\\MiniProject.csproj|c:\\users\\user\\onedrive\\desktop\\c# work\\c# homework\\c-homeworks\\miniproject\\miniproject\\services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894B0502-773B-4B9E-8E51-B49D3F7C7EFC}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894B0502-773B-4B9E-8E51-B49D3F7C7EFC}|MiniProject\\MiniProject.csproj|c:\\users\\user\\onedrive\\desktop\\c# work\\c# homework\\c-homeworks\\miniproject\\miniproject\\data\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{894B0502-773B-4B9E-8E51-B49D3F7C7EFC}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\data\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894B0502-773B-4B9E-8E51-B49D3F7C7EFC}|MiniProject\\MiniProject.csproj|c:\\users\\user\\onedrive\\desktop\\c# work\\c# homework\\c-homeworks\\miniproject\\miniproject\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894B0502-773B-4B9E-8E51-B49D3F7C7EFC}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894B0502-773B-4B9E-8E51-B49D3F7C7EFC}|MiniProject\\MiniProject.csproj|c:\\users\\user\\onedrive\\desktop\\c# work\\c# homework\\c-homeworks\\miniproject\\miniproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894B0502-773B-4B9E-8E51-B49D3F7C7EFC}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894B0502-773B-4B9E-8E51-B49D3F7C7EFC}|MiniProject\\MiniProject.csproj|c:\\users\\user\\onedrive\\desktop\\c# work\\c# homework\\c-homeworks\\miniproject\\miniproject\\data\\orders.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{894B0502-773B-4B9E-8E51-B49D3F7C7EFC}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\data\\orders.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894B0502-773B-4B9E-8E51-B49D3F7C7EFC}|MiniProject\\MiniProject.csproj|c:\\users\\user\\onedrive\\desktop\\c# work\\c# homework\\c-homeworks\\miniproject\\miniproject\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894B0502-773B-4B9E-8E51-B49D3F7C7EFC}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894B0502-773B-4B9E-8E51-B49D3F7C7EFC}|MiniProject\\MiniProject.csproj|c:\\users\\user\\onedrive\\desktop\\c# work\\c# homework\\c-homeworks\\miniproject\\miniproject\\utilits\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894B0502-773B-4B9E-8E51-B49D3F7C7EFC}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\utilits\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894B0502-773B-4B9E-8E51-B49D3F7C7EFC}|MiniProject\\MiniProject.csproj|c:\\users\\user\\onedrive\\desktop\\c# work\\c# homework\\c-homeworks\\miniproject\\miniproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894B0502-773B-4B9E-8E51-B49D3F7C7EFC}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894B0502-773B-4B9E-8E51-B49D3F7C7EFC}|MiniProject\\MiniProject.csproj|c:\\users\\user\\onedrive\\desktop\\c# work\\c# homework\\c-homeworks\\miniproject\\miniproject\\utilits\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894B0502-773B-4B9E-8E51-B49D3F7C7EFC}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\utilits\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894B0502-773B-4B9E-8E51-B49D3F7C7EFC}|MiniProject\\MiniProject.csproj|c:\\users\\user\\onedrive\\desktop\\c# work\\c# homework\\c-homeworks\\miniproject\\miniproject\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894B0502-773B-4B9E-8E51-B49D3F7C7EFC}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\C# Work\\C# HomeWork\\C-HomeWorks\\MiniProject\\MiniProject\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\C# Work\\C# HomeWork\\C-HomeWorks\\MiniProject\\MiniProject\\Models\\OrderItem.cs",
+              "RelativeToolTip": "MiniProject\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIAwwBUAAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T09:26:09.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\C# Work\\C# HomeWork\\C-HomeWorks\\MiniProject\\MiniProject\\Program.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\C# Work\\C# HomeWork\\C-HomeWorks\\MiniProject\\MiniProject\\Program.cs",
+              "RelativeToolTip": "MiniProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:32:57.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageApp.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\C# Work\\C# HomeWork\\C-HomeWorks\\MiniProject\\MiniProject\\ManageApp.cs",
+              "RelativeDocumentMoniker": "MiniProject\\ManageApp.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\C# Work\\C# HomeWork\\C-HomeWorks\\MiniProject\\MiniProject\\ManageApp.cs",
+              "RelativeToolTip": "MiniProject\\ManageApp.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAF0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T15:38:04.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data.json",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\C# Work\\C# HomeWork\\C-HomeWorks\\MiniProject\\MiniProject\\Data\\Data.json",
+              "RelativeDocumentMoniker": "MiniProject\\Data\\Data.json",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\C# Work\\C# HomeWork\\C-HomeWorks\\MiniProject\\MiniProject\\Data\\Data.json",
+              "RelativeToolTip": "MiniProject\\Data\\Data.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-01T15:03:03.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\C# Work\\C# HomeWork\\C-HomeWorks\\MiniProject\\MiniProject\\Services\\ProductServices.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Services\\ProductServices.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\C# Work\\C# HomeWork\\C-HomeWorks\\MiniProject\\MiniProject\\Services\\ProductServices.cs",
+              "RelativeToolTip": "MiniProject\\Services\\ProductServices.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwOEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T14:59:45.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderServices.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\C# Work\\C# HomeWork\\C-HomeWorks\\MiniProject\\MiniProject\\Services\\OrderServices.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Services\\OrderServices.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\C# Work\\C# HomeWork\\C-HomeWorks\\MiniProject\\MiniProject\\Services\\OrderServices.cs",
+              "RelativeToolTip": "MiniProject\\Services\\OrderServices.cs",
+              "ViewState": "AgIAADgBAAAAAAAAAAAuwDgBAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T17:16:43.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\C# Work\\C# HomeWork\\C-HomeWorks\\MiniProject\\MiniProject\\Utilits\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Utilits\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\C# Work\\C# HomeWork\\C-HomeWorks\\MiniProject\\MiniProject\\Utilits\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "MiniProject\\Utilits\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T16:04:02.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InputHelper.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\C# Work\\C# HomeWork\\C-HomeWorks\\MiniProject\\MiniProject\\Utilits\\InputHelper.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Utilits\\InputHelper.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\C# Work\\C# HomeWork\\C-HomeWorks\\MiniProject\\MiniProject\\Utilits\\InputHelper.cs",
+              "RelativeToolTip": "MiniProject\\Utilits\\InputHelper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T17:28:26.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\C# Work\\C# HomeWork\\C-HomeWorks\\MiniProject\\MiniProject\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\C# Work\\C# HomeWork\\C-HomeWorks\\MiniProject\\MiniProject\\Models\\Product.cs",
+              "RelativeToolTip": "MiniProject\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T16:43:06.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Orders.json",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\C# Work\\C# HomeWork\\C-HomeWorks\\MiniProject\\MiniProject\\Data\\Orders.json",
+              "RelativeDocumentMoniker": "MiniProject\\Data\\Orders.json",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\C# Work\\C# HomeWork\\C-HomeWorks\\MiniProject\\MiniProject\\Data\\Orders.json",
+              "RelativeToolTip": "MiniProject\\Data\\Orders.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAB6AQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-01T15:02:28.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\C# Work\\C# HomeWork\\C-HomeWorks\\MiniProject\\MiniProject\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\C# Work\\C# HomeWork\\C-HomeWorks\\MiniProject\\MiniProject\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "MiniProject\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T16:36:40.966Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
